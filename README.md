@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onna4&label=Profile%20views&color=0e75b6&style=flat" alt="onna4" /> </p>
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **omnia.hefzy@gmail.com**
 
